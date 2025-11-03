@@ -1,0 +1,83 @@
+Politique de confidentialité 
+
+Dernière mise à jour : novembre 2025
+
+1. Introduction
+
+Cette politique décrit comment k0ff Gestion collecte, traite et protège les données des utilisateurs sur Discord.
+Le respect de la vie privée et la sécurité des données sont des priorités absolues pour le Développeur ins.ciable.
+
+2. Données collectées
+
+Le Bot ne collecte aucune donnée personnelle sensible (adresse IP, e-mail, localisation, etc.).
+Les seules données potentiellement traitées sont des informations techniques Discord, telles que :
+
+ID d’utilisateur, d’un serveur ou d’un message,
+
+Nom d’utilisateur et tag Discord (uniquement si nécessaire à une commande),
+
+Contenu de messages dans le cadre d’une exécution de commande (jamais stocké durablement).
+
+Ces données sont utilisées uniquement de manière temporaire.
+
+3. Finalité du traitement
+
+Les données collectées servent exclusivement à :
+
+Exécuter les fonctionnalités du Bot,
+
+Identifier les permissions et gérer la modération,
+
+Prévenir les abus et garantir la stabilité du service.
+
+Aucune donnée n’est utilisée à des fins marketing, commerciales ou statistiques.
+
+4. Conservation et suppression
+
+Les données temporaires générées par le Bot (logs, erreurs, statistiques internes) sont :
+
+Conservées pour une durée limitée,
+
+Supprimées automatiquement après usage,
+
+Jamais transmises à des tiers non autorisés.
+
+Les utilisateurs peuvent à tout moment demander la suppression de leurs données (si applicable) via le contact ci-dessous.
+
+5. Partage et divulgation
+
+Le Développeur ne partage aucune donnée utilisateur avec des tiers, sauf dans les cas suivants :
+
+Si la loi ou une autorité judiciaire l’exige,
+
+Si Discord le demande pour faire appliquer ses propres Conditions d’utilisation.
+
+Aucune donnée n’est commercialisée ni utilisée à des fins publicitaires.
+
+6. Sécurité
+
+Toutes les données sont traitées via des serveurs sécurisés et protégées contre tout accès non autorisé.
+Des mesures techniques (authentification, chiffrement, restriction d’accès) sont appliquées pour garantir la sécurité du Bot.
+
+7. Droits des utilisateurs
+
+Les utilisateurs peuvent :
+
+Demander des informations sur les données éventuellement collectées,
+
+Demander la suppression ou l’anonymisation de ces données.
+
+Toute demande peut être envoyée à:
+discord : ins.ciable 
+
+8. Mises à jour de la politique
+
+Cette politique peut être mise à jour à tout moment pour refléter l’évolution du Bot ou de la législation.
+La date de dernière mise à jour est indiquée en haut du document.
+L’utilisation continue du Bot après modification vaut acceptation implicite des changements.
+
+9. Contact
+
+Pour toute question ou réclamation, contactez :
+discord : ins.ciable 
+Support : https://discord.gg/RZShC9geeZ

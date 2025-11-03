@@ -1,0 +1,65 @@
+Conditions d’utilisation
+1. Introduction
+
+Bienvenue sur k0ff Gestion, un service développé et maintenu par ins.ciable.
+Ces conditions d’utilisation régissent l’accès et l’usage du Bot sur la plateforme Discord.
+En ajoutant ou en utilisant ce Bot sur votre serveur, vous acceptez l’ensemble des termes décrits ci-dessous.
+
+2. Utilisation autorisée
+
+L’utilisation du Bot est strictement réservée à des fins légitimes, conformément aux Conditions d’utilisation de Discord
+.
+L’utilisateur s’engage à :
+
+Ne pas utiliser le Bot pour du spam, du harcèlement, ou tout comportement nuisible.
+
+Ne pas tenter de modifier, décompiler ou exploiter le code du Bot.
+
+Respecter les limitations d’usage fixées par le Développeur (telles que les quotas, les commandes ou les permissions).
+
+Toute utilisation abusive ou contraire aux règles de Discord pourra entraîner une suspension d’accès au Bot.
+
+3. Accès et disponibilité
+
+Le Bot est fourni "tel quel".
+Le Développeur s’efforce de maintenir le service disponible, mais n’offre aucune garantie de disponibilité continue, ni d’absence d’erreurs.
+Des maintenances, mises à jour ou interruptions temporaires peuvent survenir à tout moment sans préavis.
+
+4. Collecte et gestion des données
+
+L’utilisation du Bot peut impliquer la collecte temporaire d’informations nécessaires à son bon fonctionnement (comme les ID Discord de serveurs, utilisateurs, ou messages).
+Aucune donnée personnelle n’est vendue, louée ou partagée avec des tiers.
+Les informations traitées sont utilisées uniquement pour :
+
+Exécuter les commandes demandées,
+
+Assurer la stabilité et la sécurité du Bot,
+
+Éventuellement, améliorer ses fonctionnalités.
+
+Pour plus de détails, veuillez consulter la Politique de confidentialité
+.
+
+5. Responsabilité
+
+Le Développeur ne saurait être tenu responsable de :
+
+Toute perte de données,
+
+Tout dommage ou interruption du service Discord,
+
+Tout usage inapproprié du Bot par un tiers.
+
+L’utilisateur reconnaît utiliser le Bot à ses propres risques.
+
+6. Modifications
+
+Ces conditions peuvent être mises à jour à tout moment.
+La version la plus récente sera toujours accessible publiquement via le lien officiel du Bot.
+L’utilisation continue du Bot après modification des termes vaut acceptation implicite des nouvelles conditions.
+
+7. Contact
+
+Pour toute question ou réclamation, contactez :
+discord : ins.ciable 
+Support : https://discord.gg/RZShC9geeZ
